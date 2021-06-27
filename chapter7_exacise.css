@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image:url(img-chapter7/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.head-word {
+  padding: 20px 0 0 20px;
+}
+
+.shelf {
+  width: 840px;
+  margin: 50px auto ;
+}
+
+.box {
+  margin: 30px 0;
+  padding-bottom: 30px;
+  border-bottom: solid whitesmoke;
+}
